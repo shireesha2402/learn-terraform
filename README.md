@@ -1,3 +1,3 @@
 # learn-terraform
 
-Learning Terraform here
+Learning Terraform using examples
